@@ -80,3 +80,5 @@ Script Structure:
 5. Customization: Themes (Catppuccin/Dracula), icons, and fonts.
 
 6. Optimization: Kernel and service settings.
+
+obs:Esse script foi feito usando o Manus AI, quaisquer erro encontrado deve ser reportado imediatamente/This script was created using Manus AI; any errors found should be reported immediately.
